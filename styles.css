@@ -19,6 +19,7 @@ h1 {
   background-color: burlywood;
   color: black;
   width: 70%;
+  max-width: 500px;
 }
 
 body {
@@ -33,6 +34,7 @@ body {
   flex-direction: column;
   align-items: center;
   width: 70%;
+  max-width: 500px;
 }
 
 h2 {
@@ -53,6 +55,7 @@ button {
   text-align: center;
   background-color: rgb(183, 174, 174);
   list-style: none;
+  font-size: 15px;
 }
 
 .position-tag-boxes {
