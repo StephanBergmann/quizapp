@@ -12,8 +12,11 @@ body {
   background-color: bisque;
 }
 
-.color-article {
+.article {
   background-color: burlywood;
   border-radius: 10px;
   border: 5px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
