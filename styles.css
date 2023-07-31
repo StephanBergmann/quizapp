@@ -1,6 +1,10 @@
 h1 {
   font-family: Palatino;
-  border: 5px solid black;
+  border: 5px solid rgb(179, 169, 33);
   padding: 20px;
   text-align: center;
+}
+
+body {
+  background-color: rgb(7, 219, 198);
 }
