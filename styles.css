@@ -11,3 +11,9 @@ h1 {
 body {
   background-color: bisque;
 }
+
+.color-article {
+  background-color: burlywood;
+  border-radius: 10px;
+  border: 5px solid black;
+}
