@@ -56,4 +56,7 @@ button {
 }
 
 .position-tag-boxes {
+  display: flex;
+  align-self: flex-start;
+  gap: 10px;
 }
