@@ -48,4 +48,8 @@ button {
 }
 
 .tag-style {
+  border: 2px solid;
+  border-radius: 5px;
+  text-align: center;
+  background-color: rgb(183, 174, 174);
 }
