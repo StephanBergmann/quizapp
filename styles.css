@@ -1,10 +1,12 @@
 h1 {
   font-family: Palatino;
-  border: 5px solid rgb(144, 20, 20);
+  border: 5px solid black;
   padding: 20px;
   text-align: center;
+  background-color: burlywood;
+  color: black;
 }
 
 body {
-  background-color: rgba(7, 219, 205, 0.368);
+  background-color: bisque;
 }
