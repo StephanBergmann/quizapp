@@ -2,6 +2,13 @@
   box-sizing: border-box;
 }
 
+.position-boxes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
 h1 {
   font-family: Palatino;
   font-size: 40px;
@@ -11,6 +18,8 @@ h1 {
   text-align: center;
   background-color: burlywood;
   color: black;
+  min-width: 500px;
+  max-width: 500px;
 }
 
 body {
@@ -24,6 +33,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  max-width: 500px;
+  min-width: 500px;
 }
 
 h2 {
