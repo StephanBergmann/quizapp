@@ -52,4 +52,5 @@ button {
   border-radius: 5px;
   text-align: center;
   background-color: rgb(183, 174, 174);
+  list-style: none;
 }
